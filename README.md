@@ -16,6 +16,17 @@
 
 ---
 
+### 🚀 Future Goals
+- 📌 Dive deeper into **React** to create more complex web applications.
+  
+---
+
+### 🧩 Featured Projects
+- **[Windows File Explorer (Clone C#)](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)**: A clone of Windows File Explorer using C#. This project focuses on replicating the core features of Windows File Explorer. Made for a project for school.
+- **[DataVision Website](https://github.com/Rodrigo-200/DataVision)**: A website created using HTML, CSS, and JavaScript, showcasing some S.Is in a professional manner. Made for a project for school.
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
