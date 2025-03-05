@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on [Windows File Explorer (Clone C#)](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)
-- 🌱 I’m currently learning **C#, HTML, CSS, JavaScript, React**
+- 🌱 I’m currently learning **C#, HTML, CSS, JavaScript**
 - 📫 How to reach me: **rodrigo.contactme@manyme.com**
 
 ---
