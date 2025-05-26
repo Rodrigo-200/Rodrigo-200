@@ -70,8 +70,6 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodrigo-martins)
-[![Twitter](https://img.shields.io/badge/Twitter-@rodrigo_200-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rodrigo_200)
 [![Email](https://img.shields.io/badge/Email-rodrigo.contactme@manyme.com-D14836?style=for-the-badge&logo=gmail)](mailto:rodrigo.contactme@manyme.com)
 
 ---
