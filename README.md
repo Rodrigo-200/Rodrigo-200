@@ -1,74 +1,87 @@
-![Header](./github-header-image.png)
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rodrigo+Martins;A+Passionate+Developer+from+Portugal" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Rodrigo Martins</h1>
-<h3 align="center">A passionate programming student from Portugal</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rodrigo-200&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigo-200" />
+<!-- Light/Dark Mode Banner -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <img src="./assets/banner-light.png" alt="Banner" width="100%" />
+  </picture>
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on [Windows File Explorer (Clone C#)](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)
-- 🌱 I’m currently learning **C#, HTML, CSS, JavaScript**
-- 📫 How to reach me: **rodrigo.contactme@manyme.com**
+## 🚀 About Me
+
+🎓 I'm a programming student passionate about building impactful software.
+
+🌱 Currently learning: **C#**, **JavaScript**, **React**, **Tailwind CSS**
+
+💼 Working on: [File Explorer Clone](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)
+
+📫 Reach me at: [rodrigo.contactme@manyme.com](mailto:rodrigo.contactme@manyme.com)
 
 ---
 
-### 🚀 Future Goals
-- 📌 Dive deeper into **React** to create more complex web applications.
-  
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
-### 🧩 Featured Projects
-- **[Windows File Explorer (Clone C#)](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)**: A clone of Windows File Explorer using C#. This project focuses on replicating the core features of Windows File Explorer. Made for a project for school.
-- **[DataVision Website](https://github.com/Rodrigo-200/DataVision)**: A website created using HTML, CSS, and JavaScript, showcasing some S.Is in a professional manner. Made for a project for school.
+## 📈 GitHub Stats
 
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-200&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-200&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-200&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-200&show_icons=true&locale=en&layout=compact" alt="rodrigo-200" /></p>
+## 🌟 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-200&show_icons=true&locale=en" alt="rodrigo-200" /></p>
+### [File Explorer Clone](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-200&" alt="rodrigo-200" /></p>
+![File Explorer Clone](./assets/file-explorer.png)
+
+A Windows File Explorer clone built with C#, replicating core functionalities for educational purposes.
+
+### [DataVision Website](https://github.com/Rodrigo-200/DataVision)
+
+![DataVision](./assets/datavision.png)
+
+An interactive website showcasing data visualizations using HTML, CSS, and JavaScript.
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rodrigo-200" alt="rodrigo-200" />
-  </a>
+## 🎵 Now Playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qws2qs8ohmvzsp6ectrfiyjsi)
+
+---
+
+## 😂 Dev Joke of the Day
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodrigo-martins)
+[![Twitter](https://img.shields.io/badge/Twitter-@rodrigo_200-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rodrigo_200)
+[![Email](https://img.shields.io/badge/Email-rodrigo.contactme@manyme.com-D14836?style=for-the-badge&logo=gmail)](mailto:rodrigo.contactme@manyme.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodrigo-200&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
