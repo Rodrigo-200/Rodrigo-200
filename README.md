@@ -68,12 +68,6 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 
 ---
 
-## 😂 Dev Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodrigo-martins)
