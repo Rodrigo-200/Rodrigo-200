@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rodrigo+Martins;A+Passionate+Developer+from+Portugal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rodrigo+Martins" alt="Typing SVG" />
 </p>
 
 <!-- Light/Dark Mode Banner -->
