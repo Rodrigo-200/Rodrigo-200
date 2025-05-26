@@ -1,13 +1,13 @@
-<!-- Typing SVG -->
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rodrigo+Martins" alt="Typing SVG" />
+  <img src="./typing-banner.svg" alt="Typing Animation Banner" />
 </p>
 
 <!-- Light/Dark Mode Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-header-image.png">
-    <img src="github-header-image.png" alt="Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <img src="./assets/banner-light.png" alt="Banner" width="100%" />
   </picture>
 </p>
 
