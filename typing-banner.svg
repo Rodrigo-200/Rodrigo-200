@@ -1,6 +1,6 @@
 <svg width="100%" height="200">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="background: url('your-background-image.jpg') center/cover; height: 100%; display: flex; align-items: center; justify-content: center;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background: url('github-header-image') center/cover; height: 100%; display: flex; align-items: center; justify-content: center;">
       <style>
         @keyframes typing {
           from { width: 0 }
