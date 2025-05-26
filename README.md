@@ -6,8 +6,8 @@
 <!-- Light/Dark Mode Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-    <img src="./assets/banner-light.png" alt="Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-header-image.png">
+    <img src="github-header-image.png" alt="Banner" width="100%" />
   </picture>
 </p>
 
