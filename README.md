@@ -6,8 +6,8 @@
 <!-- Light/Dark Mode Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-    <img src="./assets/banner-light.png" alt="Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aesthetic-youtube-banner-background-2560-x-1440-9iwo8i185q5tgis1.jpg">
+    <img src="./assets/aesthetic-youtube-banner-background-2560-x-1440-9iwo8i185q5tgis1.jpg" alt="Banner" width="100%" />
   </picture>
 </p>
 
