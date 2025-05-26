@@ -1,6 +1,6 @@
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="./typing-banner.svg" alt="Typing Animation Banner" />
+  <img src="typing-banner.svg" alt="Typing Animation Banner" />
 </p>
 
 <!-- Light/Dark Mode Banner -->
