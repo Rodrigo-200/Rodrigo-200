@@ -11,7 +11,7 @@
 
 🌱 Currently learning: **C#**, **JavaScript**, **React**, **Tailwind CSS**
 
-💼 Working on: [File Explorer Clone](https://github.com/Rodrigo-200/File-Explorer-Clone-C-)
+💼 Working on: [Glorious Battery Monitor](https://github.com/Rodrigo-200/GloriousBatteryMonitor)
 
 📫 Reach me at: [rodrigo.contactme@manyme.com](mailto:rodrigo.contactme@manyme.com)
 
